@@ -9,6 +9,4 @@ public class Ose {
 		FenetrePrincipale vue = new FenetrePrincipale(modele) ;
 		new Controleur(vue,modele) ;
 	}
-	
-	
 }
